@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="MyFlinkTestDemo" />
+      <module name="spring-api-demo" />
+      <module name="utlisdemo" />
+      <module name="No37-flink-env" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bfb4911-da41-4537-bce0-4497658883c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__asm_asm_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__com_yammer_metrics_metrics_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_buffer_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_codec_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_common_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_handler_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_resolver_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__io_netty_netty_transport_4_1_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_curator_curator_framework_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_flink_flink_connector_jdbc_2_11_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_flink_flink_connector_redis_2_11_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_flink_flink_connector_wikiedits_2_11_1_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_1_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hbase_hbase_client_1_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hbase_hbase_common_1_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_1_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_client_transport_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_plugin_percolator_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_plugin_reindex_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_6_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_schwering_irclib_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__redis_clients_jedis_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/JedisJavaApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/es/EsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/hbase/Hbase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/hbase/HbaseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/myTest/WikiedStreaming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/quickstart.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/RedisConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/RedisConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/RedisSink01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/RedisSink01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/RedisSink02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/RedisSink27/RedisSink02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/Table05/MyStreamingSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/Table05/MyStreamingSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/shizhan02/MyHbaseSink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/src/main/java/org/myorg/quickstart/shizhan02/MyHbaseSink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/MyStreamingSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/MyStreamingSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/target/classes/org/myorg/quickstart/Table05/StreamingDemo.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../quickstart" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hHJyk7keYX42H00DoGtFZyVsNp" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.es" />
+      <recent name="com.example.utils.utlisdemo.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.es.movie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDemo.testSearchOne">
+    <configuration name="TestDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.es" />
+      <option name="MAIN_CLASS_NAME" value="com.example.es.TestDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.testSearchOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.es" />
+      <option name="MAIN_CLASS_NAME" value="com.example.es.TestDemo" />
+      <option name="METHOD_NAME" value="testSearchOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDocument.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.es" />
+      <option name="MAIN_CLASS_NAME" value="com.example.es.TestDocument" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDocument.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.es" />
+      <option name="MAIN_CLASS_NAME" value="com.example.es.TestDocument" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="esDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.es" />
+      <option name="MAIN_CLASS_NAME" value="com.example.es.TestIndex" />
+      <option name="METHOD_NAME" value="testCreateIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="esDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.es.EsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApiDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-api-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springapidemo.SpringApiDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtlisdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="utlisdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.utils.utlisdemo.UtlisdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDemo.testSearchOne" />
+        <item itemvalue="JUnit.TestDocument.testGet" />
+        <item itemvalue="JUnit.TestDemo.test" />
+        <item itemvalue="JUnit.TestDocument.testAdd" />
+        <item itemvalue="JUnit.TestIndex.testCreateIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@2f36c943" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bfb4911-da41-4537-bce0-4497658883c2" name="Default Changelist" comment="" />
+      <created>1599662340917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599662340917</updated>
+      <workItem from="1599662344961" duration="2390000" />
+      <workItem from="1599879918130" duration="12099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/esDemo/src/test/java/com/example/es/TestDocument.java</url>
+          <line>48</line>
+          <properties class="com.example.es.TestDocument" method="testGet">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
