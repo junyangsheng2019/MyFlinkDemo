@@ -57,4 +57,15 @@ public class InitRestHighLevelClient {
         return response;
     }
 
+    public static void main(String[] args) throws IOException {
+        String INDEX = "bigdata_dmp_ads_transformed_user_portrait_basic_labeling_20200921";
+        GetRequest getRequest = new GetRequest(INDEX, findId());
+        GetResponse response = getClient().get(getRequest,RequestOptions.DEFAULT);
+        System.out.println(response.toString());
+
+    }
+
+    private static String findId() {
+        return "83555812";
+    }
 }

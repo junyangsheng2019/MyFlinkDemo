@@ -1,0 +1,2 @@
+1.查询关键词
+cat koo_info_2020-09-27.part_0.log |grep 'expTransfer,crowId' -C 100
