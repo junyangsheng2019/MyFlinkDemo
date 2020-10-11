@@ -1,0 +1,41 @@
+查询重复记录
+GET /standard_product_eso/_search
+{
+  "size": 10,
+  "aggs": {
+    "duplicateCount": {
+      "terms": {
+      "field": "code",
+        "min_doc_count": 2
+      },
+      "aggs": {
+        "duplicateDocuments": {
+          "top_hits": {}
+        }
+      }
+    }
+  }
+}
+条件分组查询数量大于1
+{
+  "aggs": {
+    "groupByCode": {
+      "terms": {
+        "field": "code"
+      },
+      "aggs":{
+        "having":{
+          "bucket_selector": {
+              "buckets_path": {
+                "codeCount": "_count"
+              },
+              "script": {
+                "source": "params.codeCount > 1"
+              }
+            }
+        }
+      }
+
+    }
+  }
+}
